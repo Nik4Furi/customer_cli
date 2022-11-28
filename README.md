@@ -1,6 +1,6 @@
 # <h1 id="customer_cli"> customer_cli </h1>
 ### A CLI(command line interface) app
-customer_cli, basically is a command line app, can help to add,update,delete or other operations can do at the terminal or command bases.It can use to <a href="https://google.com?search='what is crud operations'" target="_blank" rel="noopener noreferrer">CRUD</a> operations do ,at writing queries on terminal.
+customer_cli, basically is a command line app, can help to add,update,delete or other operations can do at the terminal or command bases.It can use to <a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete" target="_blank" rel="noopener noreferrer">CRUD</a> operations do ,at writing queries on terminal.
 
 ## Indexing the contents
 ####   <p><a href="#badges" >Badges</a></p>
@@ -9,10 +9,8 @@ customer_cli, basically is a command line app, can help to add,update,delete or 
 ####   <p><a href="#stack" >Tech Stack</a></p>
 ####   <p><a href="#runLocally" >Run Locally</a></p>
 ####   <p><a href="#envVar" >Environment Variables</a></p>
-####   <p><a href="#routersRef" >Routers References</a></p>
 ####   <p><a href="#usages" >Usages/Examples</a></p>
 ####   <p><a href="#features" >Features</a></p>
-####   <p><a href="#relatedProjects" >Related Projects</a></p>
 
 ## <h2 id="badges" >Badges </h2>
 
@@ -20,22 +18,19 @@ customer_cli, basically is a command line app, can help to add,update,delete or 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Nik4Furi/customer_cli?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/Nik4Furi/customer_cli?style=social)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/Nik4Furi/customer_cli)   ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nik4Furi/customer_cli?style=flat-square) ![GitHub repo file count](https://img.shields.io/github/directory-file-count/Nik4Furi/customer_cli) ![GitHub package.json version](https://img.shields.io/github/package-json/v/Nik4Furi/customer_cli)
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Nik4Furi/customer_cli)   ![GitHub last commit](https://img.shields.io/github/last-commit/Nik4Furi/customer_cli)
+  
+![GitHub last commit](https://img.shields.io/github/last-commit/Nik4Furi/customer_cli)
 
 ## <h2 id="looks" >customer_cli looks like</h2>
 
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203487604-039a41aa-c4ae-4fad-b76e-1b72ce7f0f78.png" width="400" height="" alt="customer_cli_home"/>
+  <img src="https://user-images.githubusercontent.com/91304976/204205817-87e93903-e04b-447e-8943-6560db3ce9fe.png" width="400" height="" alt="customer_cli_add"/>
   
-  <img src="https://user-images.githubusercontent.com/91304976/203487609-5fe50b57-c865-4fd1-90ec-9dec2eddec73.png" width="500" height="" alt="customer_cli_link"/>  
+  <img src="https://user-images.githubusercontent.com/91304976/204205830-1b04422b-d720-44cb-a672-8a39d15d92ab.png" width="500" height="" alt="customer_cli_link"/>  
  </p>
  
- <p text-align=right>
-  <img src="https://user-images.githubusercontent.com/91304976/203487568-85d8befe-a0d0-4905-9910-f07505259b99.png" width="400" height="" alt="customer_cli_download"/>
-</p>
-
+ 
 <a href="#customer_cli">Go Home </a>
 
 
@@ -43,12 +38,18 @@ customer_cli, basically is a command line app, can help to add,update,delete or 
 ## <h2 id="demo" >Demo </h2>
 
 <p text-align=left>
-  <img src="https://user-images.githubusercontent.com/91304976/203494510-77735dad-2653-4835-8d86-8915b384abeb.gif" width="500" height="" alt="customer_cli_home"/>
+  <img src="https://user-images.githubusercontent.com/91304976/204212339-b590ca3e-6777-49a5-bc94-b1e0680975e7.gif" width="500" height="" alt="customer_cli_add"/>
     
-    
-  <img src="https://user-images.githubusercontent.com/91304976/203494536-92cc8b0e-1189-4e22-b6c0-81c07418cfcc.gif" width="500" height="" alt="customer_cli_download"/>  
+
+  <img src="https://user-images.githubusercontent.com/91304976/204212361-9b9ea907-f27e-4817-81f1-42d817415549.gif" width="500" height="" alt="customer_cli_download"/>  
  </p>
  
+ <p text-align=left>
+  <img src="https://user-images.githubusercontent.com/91304976/204212373-c00890e4-e581-415f-8872-4600261ba8da.gif" width="500" height="" alt="customer_cli_add"/>
+    
+
+ </p>
+
 
 
 <a href="#customer_cli">Go Home </a>
@@ -58,7 +59,7 @@ customer_cli, basically is a command line app, can help to add,update,delete or 
 ## <h2 id="stack" >Tech Stack </h2>
 
 
-**Server:** NodeJS, ExpressJS, MongoDB, <a href="https://google.com?search='commander nodejs'" target="_blank" rel="noopener noreferrer">Commander</a>
+**Server:** NodeJS, ExpressJS, MongoDB, <a href="https://www.npmjs.com/package/commander" target="_blank" rel="noopener noreferrer">Commander</a>
 
 <a href="#customer_cli">Go Home </a>
 
